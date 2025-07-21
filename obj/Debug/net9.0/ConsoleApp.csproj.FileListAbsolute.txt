@@ -1,0 +1,14 @@
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+E:\Faculdade\NanoDegree\2°Semestre\C#\PROJETOS\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
